@@ -4,8 +4,8 @@ I'm Server Developer at EstateCloud.😄
 #### Skills
 [![My Skills](https://skillicons.dev/icons?i=spring,hibernate,mysql&perlink=3)](https://skillicons.dev)
 
-#### Stats
-| [![MyeongchanJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=npee&count_private=true&show_icons=true&theme=buefy&hide=contribs&hide_title=true&line_height=30)](https://github.com/npee) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npee&hide=html,css,scss&layout=compact&theme=buefy)](https://github.com/npee) |
+<!-- #### Stats -->
+<!-- | [![MyeongchanJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=npee&count_private=true&show_icons=true&theme=buefy&hide=contribs&hide_title=true&line_height=30)](https://github.com/npee) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npee&hide=html,css,scss&layout=compact&theme=buefy)](https://github.com/npee) | -->
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 #### Repositories
