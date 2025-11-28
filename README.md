@@ -1,5 +1,5 @@
 #### Whoami
-Back-end Web Deveopler / Server Engineer.😄
+Back-end Deveopler / Server Engineer.😄
 
 <!-- #### Skills -->
 <!-- [![My Skills](https://skillicons.dev/icons?i=spring,hibernate,mysql&perlink=3)](https://skillicons.dev) -->
